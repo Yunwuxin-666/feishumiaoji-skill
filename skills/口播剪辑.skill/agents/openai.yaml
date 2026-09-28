@@ -1,0 +1,6 @@
+interface:
+  display_name: "口播剪辑.skill"
+  short_description: "口播语义精剪、去口癖与重复起句，白字半透明字幕和内容章节进度条"
+  default_prompt: "使用 $口播剪辑.skill 精剪这个口播视频，去掉口癖和重复起句，添加白字半透明黑底字幕与内容章节进度条。"
+policy:
+  allow_implicit_invocation: true

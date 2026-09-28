@@ -1,0 +1,17 @@
+{
+  "included_local_skills": [
+    "妙计.skill",
+    "口播剪辑.skill",
+    "剪辑.skill"
+  ],
+  "created": "2026-09-28T15:02:29+08:00",
+  "lark_cli_version": "lark-cli version 1.0.50",
+  "included_lark_cli_skills": [
+    "lark-shared",
+    "lark-doc",
+    "lark-drive",
+    "lark-minutes",
+    "lark-vc",
+    "lark-base"
+  ]
+}
